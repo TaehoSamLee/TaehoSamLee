@@ -10,7 +10,7 @@
 
 ```yaml
 name: Taeho Lee
-located_in: Kingston, Ontario
+located_in: Ontario, Canada
 current_job: Hard working student
 education:
   [
@@ -30,7 +30,7 @@ technical_background:
   ]
   
 currently_learning: ["Graphics programming"]
-2025 Goals: ["Getting a job "]
+2025 Goals: ["Getting a job"]
 hobbies: ["Game", "Ski"]
 ```
   
